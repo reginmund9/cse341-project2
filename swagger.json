@@ -5,10 +5,9 @@
     "description": "Users Api",
     "version": "1.0.0"
   },
-  "host": "project2-dgm3.onrender.com",
+  "host": "https://project2-dgm3.onrender.com",
   "basePath": "/",
   "schemes": [
-    
     "https"
   ],
   "paths": {
